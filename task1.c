@@ -1,3 +1,5 @@
+/* I know this isn't even a lab, but it was part of the homework, don't judge me!! */
+
 #include <stdio.h>
 
 int main()

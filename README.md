@@ -8,7 +8,7 @@ ANUL UNIVERSITAR: 2017-2018
 
 TASK 1:
 
-	Task-ul 1 este modularizat pe realizarea separata a primelor n-1 linii de
+Task-ul 1 este modularizat pe realizarea separata a primelor n-1 linii de
 ultima. Se incepe cu un for de la i = 0 la n-1 pentru a trata toate liniile, in
 afara de ultima. Urmatoarele 2 for-uri au rolul de a completa figura cu
 space-uri (j-ul) si caracterul selectat (k-ul). Intrucat triunghiul este unul

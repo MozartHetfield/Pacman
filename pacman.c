@@ -43,7 +43,7 @@ void show_map_1(char hero, int N, int M, int x, int y, int l, int c, char m)
 }
 void show_map_2(char hero, int N, int M, int x, int y, int l, int c, int l2, int c2, char m, char m2)
 {
-	int i, j, y;
+	int i, j, po;
 	for (i = 0; i < N + 2; i++)
 	{
 		for (j = 0; j < M + 2; j++)

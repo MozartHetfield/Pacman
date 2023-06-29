@@ -3,7 +3,7 @@
 
 void show_map_0(char hero, int N, int M, int x, int y)
 {
-	int i, j;
+	int i, j, z;
 	for (i = 0; i < N + 2; i++)
 	{
 		for (j = 0; j < M + 2; j++)
